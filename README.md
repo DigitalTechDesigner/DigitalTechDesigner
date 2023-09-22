@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DigitalTechDesigner
 👀 I'm interested in...
 - Interior design and digital technology
-- Plant care and green living
+- Landscaping, plant care and green living
 - Reef aquariums and marine life
 - Culinary arts and cooking
 - Traveling to explore new cultures
@@ -23,8 +23,15 @@
 - Travel blogs and travel tech projects
 - Artistic and tech-driven installations
 
+🛠️ Skills and Tools...
+- Design and Drafting: SketchUp, AutoCAD
+- Visualization: V-Ray
+- Creative Tools: Adobe Creative Cloud (Photoshop, Illustrator, etc.)
+- Application Development: Platypus.app to create and convert scripts/code into apps
+
+
 📫 How to reach me...
-- Feel free to connect with me on LinkedIn: [Your LinkedIn Profile Link](https://www.linkedin.com/in/your-username/)
+- Feel free to connect with me on LinkedIn: [Your LinkedIn Profile Link]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/jeffrey-ramirez-designs/))
 - You can also drop me an email at jeffrey@jeffreyramirez.com
 - Check out my GitHub repositories for more about my work: [GitHub Profile](https://github.com/DigitalTechDesigner)
 - I'm open to collaboration and discussion on various tech and creative projects.
