@@ -1,4 +1,4 @@
-# Hi, I'm @DigitalTechDesigner 👋
+# Hi, I'm @JRDTechJourney 👋
 
 ### Interests 👀
 - Interior design and digital technology
